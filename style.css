@@ -1,0 +1,8 @@
+#myCanvas
+{
+    margin-top: 10px;
+    border-width: 40px;
+    background-image: URL(ip.gif);
+    border-style:ridge;
+    border-color: black;
+}
